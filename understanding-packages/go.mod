@@ -1,4 +1,4 @@
-module example.com/investment-calculator
+module packages.com/bank
 
 go 1.24.1
 
